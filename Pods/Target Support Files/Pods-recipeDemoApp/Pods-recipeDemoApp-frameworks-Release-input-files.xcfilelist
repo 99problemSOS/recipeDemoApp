@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-recipeDemoApp/Pods-recipeDemoApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FormTextField/FormTextField.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/ProgressHUD/ProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/XMLParsing/XMLParsing.framework

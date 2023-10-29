@@ -1,0 +1,50 @@
+PODS:
+  - FormTextField (3.1.0)
+  - IQKeyboardManagerSwift (6.5.16)
+  - ProgressHUD (14.1.0)
+  - Realm (10.43.1):
+    - Realm/Headers (= 10.43.1)
+  - Realm/Headers (10.43.1)
+  - RealmSwift (10.43.1):
+    - Realm (= 10.43.1)
+  - SnapKit (5.6.0)
+  - XMLParsing (0.0.3)
+
+DEPENDENCIES:
+  - FormTextField
+  - IQKeyboardManagerSwift
+  - ProgressHUD
+  - RealmSwift
+  - SnapKit
+  - XMLParsing (from `https://github.com/ShawnMoore/XMLParsing.git`)
+
+SPEC REPOS:
+  trunk:
+    - FormTextField
+    - IQKeyboardManagerSwift
+    - ProgressHUD
+    - Realm
+    - RealmSwift
+    - SnapKit
+
+EXTERNAL SOURCES:
+  XMLParsing:
+    :git: https://github.com/ShawnMoore/XMLParsing.git
+
+CHECKOUT OPTIONS:
+  XMLParsing:
+    :commit: 594272e4df40798c53ae1735ee65f3f387291670
+    :git: https://github.com/ShawnMoore/XMLParsing.git
+
+SPEC CHECKSUMS:
+  FormTextField: 229e496b8dae002c5062ea5e961e2140528782e2
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  ProgressHUD: c4a55f108815c46a6bf082407d2f806840b7a869
+  Realm: d97b438de77459e443bd2c8ad5ca0f95107aee4b
+  RealmSwift: 6be3f27a7fd3f5cc8f99f4b187cc4e7150299e32
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  XMLParsing: 085edb6fa22c71d6b53a79299f990a91e7414d19
+
+PODFILE CHECKSUM: 35c173dd4f44d558558c977e62c7fe0d44d9317e
+
+COCOAPODS: 1.13.0
